@@ -1,7 +1,7 @@
 MACOUI2MySQL
 ============
 
-Organizationally Unique Identifier assigned by the IEEE vendor ID download from the website and import it into the database or update them.
+This Python script download Organizationally Unique Identifier assigned by the IEEE vendor ID from the website and import it into the database or update them.
 
 
 Requirements
@@ -17,5 +17,5 @@ Installation
 ============
 
 * Create MySQL table for data with the CreateTable.sql script
-* Change the settings from Python script
-* python MACOUI2MySQL.py
+* Change the Python script setting to yours
+* $ python MACOUI2MySQL.py
