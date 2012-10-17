@@ -19,6 +19,5 @@ Installation
 * Create the MySQL table with the CreateTable.sql script
 * Alters the values in the Python script to yours
 * Add a new cron job for the python script
-
-$ crontab -e
-  0 3 * * 0 python MACOUI2MySQL.py
+* $ crontab -e
+*   0 3 * * 0 python MACOUI2MySQL.py
